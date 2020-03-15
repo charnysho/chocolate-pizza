@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-between; 
+}
+
+.logo, .header, .icons, .print, .receipe, .author_message, .vanessa {
+  display: flex;
+  justify-content: space-between; 
+}
+
+footer {
+  text-align: center;
+}
